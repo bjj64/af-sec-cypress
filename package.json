@@ -1,0 +1,29 @@
+{
+  "name": "cypress-interview",
+  "version": "1.0.0",
+  "description": "interview-project",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^12.8.1",
+    "cypress-xpath": "^2.0.1",
+    "typescript": "^5.0.3"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.32.2",
+    "@typescript-eslint/eslint-plugin": "^5.57.1",
+    "@typescript-eslint/parser": "^5.57.1",
+    "eslint": "^8.37.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "alexbjj64"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "test",
+  "license": "UNLICENSED"
+}
